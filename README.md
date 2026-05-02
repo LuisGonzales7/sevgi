@@ -3,5 +3,7 @@ pkg install git
 pkg install python 
 git clone https://github.com/LuisGonzales7/sevgi.git
 ls
-cd sevgi <br>
+cd sevgi 
 python sevgi.py
+
+NOT: İSMİ EYLÜL OLAN KIZA ATIN.!!!!
